@@ -2,4 +2,5 @@
     <string name="app_name">MIPT Praktikos Darbas 1</string>
     <string name="button1_name">Set Text</string>
     <string name="textview2_name"></string>
+    <string name="button2_name">Set Text Colour</string>
 </resources>
