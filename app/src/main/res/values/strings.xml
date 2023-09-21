@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MIPT Praktikos Darbas 1</string>
+    <string name="button1_name">Set Text</string>
+    <string name="textview2_name"></string>
 </resources>
